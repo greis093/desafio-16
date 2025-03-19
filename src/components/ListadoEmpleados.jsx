@@ -17,6 +17,8 @@ const ListadoEmpleados = (
               <th className="px-6 py-3">Edad</th>
               <th className="px-6 py-3">Puesto</th>
               <th className="px-6 py-3">Foto</th>
+              <th className="px-6 py-3">Acciones</th>
+
             </tr>
           </thead>
           <tbody>
