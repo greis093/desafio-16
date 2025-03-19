@@ -1,0 +1,124 @@
+{
+  "empleados": [
+    {
+      "id": "2",
+      "nombre": "Carlos",
+      "apellido": "Areas",
+      "puesto": "jefe",
+      "edad": 45,
+      "foto": "/public/img/jefe.webp"
+    },
+    {
+      "id": "3",
+      "nombre": "Camilo",
+      "apellido": "Robles",
+      "puesto": "gerente",
+      "edad": 25,
+      "foto": "/public/img/jefe.webp"
+    },
+    {
+      "id": "4",
+      "nombre": "Rodolfo",
+      "apellido": "Paredes",
+      "puesto": "operario",
+      "edad": 43,
+      "foto": "/public/img/operario.webp"
+    },
+    {
+      "id": "5",
+      "nombre": "Mauricio",
+      "apellido": "Robles",
+      "puesto": "Jefe operaciones",
+      "edad": 25,
+      "foto": "/public/img/operario_2.webp"
+    },
+    {
+      "id": "6",
+      "nombre": "Diego",
+      "apellido": "Prado",
+      "puesto": "operario",
+      "edad": 25,
+      "foto": "/public/img/operario.webp"
+    },
+    {
+      "id": "7",
+      "nombre": "Daniel",
+      "apellido": "Lopez",
+      "puesto": "asistente",
+      "edad": 25,
+      "foto": "/public/img/operario_2.webp"
+    },
+    {
+      "id": "8",
+      "nombre": "Samuel",
+      "apellido": "Cuero",
+      "puesto": "seguridad",
+      "edad": 25,
+      "foto": "/public/img/operario.webp"
+    },
+    {
+      "id": "9",
+      "nombre": "Monica",
+      "apellido": "Ross",
+      "puesto": "call center",
+      "edad": 25,
+      "foto": "/public/img/secretaria.webp"
+    },
+    {
+      "id": "10",
+      "nombre": "Renato",
+      "apellido": "Ramos",
+      "puesto": "operario",
+      "edad": 32,
+      "foto": "/public/img/operario_2.webp"
+    },
+    {
+      "id": "7a6a",
+      "nombre": "Patricio",
+      "apellido": "Luna",
+      "puesto": "operario",
+      "edad": 34,
+      "foto": "/public/img/operario.webp"
+    },
+    {
+      "id": "7c35",
+      "nombre": "Mariana",
+      "apellido": "Zavaleta",
+      "puesto": "RR.HH",
+      "edad": 25,
+      "foto": "/public/img/secretaria.webp"
+    },
+    {
+      "id": "2bdc",
+      "nombre": "Pablo",
+      "apellido": "Ruiz",
+      "puesto": "vendedor",
+      "edad": 25,
+      "foto": "/public/img/jefe.webp"
+    },
+    {
+      "id": "c281",
+      "nombre": "Pedro",
+      "apellido": "Ramires",
+      "puesto": "vendedor",
+      "edad": 45,
+      "foto": "/public/img/jefe.webp"
+    },
+    {
+      "id": "7cb3",
+      "nombre": "Patricio",
+      "apellido": "Roman",
+      "puesto": "cordinador",
+      "edad": 54,
+      "foto": "/public/img/jefe.webp"
+    },
+    {
+      "id": "476d",
+      "nombre": "Greicy",
+      "apellido": "Agreda Pacheco",
+      "edad": "44",
+      "puesto": "Operador",
+      "foto": "/public/img/operario.webp"
+    }
+  ]
+}
